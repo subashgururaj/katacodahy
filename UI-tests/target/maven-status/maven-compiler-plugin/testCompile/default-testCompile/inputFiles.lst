@@ -1,0 +1,10 @@
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/definitions/CommonDefinitions.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/utils/TestPropertiesManager.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/definitions/DeleteDashboardDefinitions.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/pages/HomePage.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/UITestRunner.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/definitions/LoginDefinitions.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/steps/UserSteps.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/definitions/CreateDashboardDefinitions.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/pages/DashboardPage.java
+/root/hygieia/Hygieia/UI-tests/src/test/java/com/capitalone/dashboard/uitest/pages/LoginPage.java
