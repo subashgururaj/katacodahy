@@ -9,5 +9,5 @@ RUN npm install bower -g
 RUN npm install gulp -g
 VOLUME ["/usr/src/app/UI"]
 #443/tcp 80/tcp
-EXPOSE 3000/tcp 80/tcp
+EXPOSE 443/tcp 80/tcp
 CMD ["gulp","serve"]
