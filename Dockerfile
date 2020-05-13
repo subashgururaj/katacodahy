@@ -1,11 +1,11 @@
-FROM docker.io/nginx:latest
+FFROM node:10-alpine
 
-COPY default.conf /etc/nginx/conf.d/default.conf.templ
-COPY conf-builder.sh /usr/bin/conf-builder.sh
-COPY html /usr/share/nginx/html
-RUN chown nginx:nginx /usr/share/nginx/html
-
-EXPOSE 80 443
-
-CMD conf-builder.sh &&\
-  nginx -g "daemon off;"
+COPY . /usr/src/app
+WORKDIR /usr/src/app/UI
+RUN ls
+RUN pwd
+RUN npm install
+RUN npm install bower -g
+RUN npm install gulp -g
+VOLUME ["/usr/src/app/UI"]
+CMD ["gulp","serve"]
