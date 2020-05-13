@@ -1,4 +1,4 @@
-FFROM node:10-alpine
+FROM node:10-alpine
 
 COPY . /usr/src/app
 WORKDIR /usr/src/app/UI
