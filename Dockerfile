@@ -10,4 +10,4 @@ RUN npm install gulp -g
 VOLUME ["/usr/src/app/UI"]
 #443/tcp 80/tcp
 EXPOSE 3000 443
-CMD ["gulp","serve"]
+RUN gulp serve
