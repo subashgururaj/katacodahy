@@ -98,7 +98,7 @@
     "lodash": "~4.17.11",
     "components-font-awesome": "~4.2.0",
     "dexie": "~1.2.0",
-    "json-logic-js": "^1.2.2",
+    "json-logic-js": "^2.0.0",
     "jstz": "~2.0.0",
     "modernizr": "~3.6.0",
     "moment": "~2.24.0",
