@@ -59,7 +59,7 @@
     "karma-phantomjs-launcher": "~0.1.4",
     "less": "^3.0.4",
     "less-plugin-glob": "~1.1.1",
-    "minimist": "~1.2.0",
+    "minimist": "~1.2.6",
     "npm-wiredep": "~0.0.4",
     "protractor": "~1.4.0",
     "require-dir": "~0.1.0",
