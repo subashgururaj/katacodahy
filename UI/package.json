@@ -73,7 +73,7 @@
   },
   "dependencies": {
     "jquery": "~3.4.1",
-    "jquery-ui": "~1.12.1",
+    "jquery-ui": "~1.13.2",
     "jquery-ui-dist": "^1.12.1",
     "jquery-ui-bundle": "^1.11.4",
     "angular": "~1.5.9",
